@@ -23,5 +23,5 @@ if __name__ == '__main__':
     list_cities = [item for city in cities for item in city]
     print(", ".join(list_cities))
 
-]11;rgb:0000/0000/0000\    cur.close()
+    cur.close()
     db.close()
